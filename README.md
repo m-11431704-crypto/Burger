@@ -5,7 +5,7 @@ Dibagunkan menggunakan HTML dan CSS
 -Memilih menu 
 -Menulis komen
 
-●CARA GUNA
+#CARA GUNA
 -Buka fail menggunakan pelayar web (Chrome,FireFox)
 -Boleh pilih menu
 -Boleh beri komen
